@@ -12,6 +12,7 @@ The purpose of the game is to guess a sequence of 4 different colors.
 ## Screenshots
 
 ![Start Menu](Screenshots/menu.png) 
+
 ![Picke Color](Screenshots/pickColor.png) ![Game](Screenshots/game.png)
 ![Game](Screenshots/lose.png)
 ![Game](Screenshots/win.png)
